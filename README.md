@@ -1,0 +1,2 @@
+JumpBall è un semplice gioco in Python creato con la libreria Pygame. In questo gioco, il giocatore controlla una palla che salta per evitare ostacoli che si avvicinano. Il punteggio aumenta ogni volta che il giocatore supera un ostacolo. Se la palla collide con l'ostacolo, il gioco termina e viene mostrato il punteggio finale, con la possibilità di riavviare il gioco premendo la barra spaziatrice.
+
